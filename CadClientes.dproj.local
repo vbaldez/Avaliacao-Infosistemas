@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/10 16:41:43.000.807,=C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/10 16:52:05.000.457,=C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 08:48:45.000.499,=C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 08:50:30.000.985,C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\InfoSistemas - Vilson\UnFrmCadClientes.dfm</Transaction>
+    <Transaction>2021/01/26 08:50:30.000.985,C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\InfoSistemas - Vilson\UnFrmCadClientes.pas</Transaction>
+    <Transaction>2021/01/26 08:50:47.000.035,C:\Users\Vilson\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\InfoSistemas - Vilson\CadClientes.dproj</Transaction>
+    <Transaction>2021/01/26 10:34:17.000.691,=D:\InfoSistemas - Vilson\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 10:34:54.000.947,D:\InfoSistemas - Vilson\Unit1.pas=D:\InfoSistemas - Vilson\UnPesquisaCEP.pas</Transaction>
+    <Transaction>2021/01/26 13:12:15.000.372,=D:\InfoSistemas - Vilson\unFrmEnviarEmail.pas</Transaction>
+    <Transaction>2021/01/26 13:58:47.000.484,=D:\InfoSistemas - Vilson\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 13:59:08.000.007,D:\InfoSistemas - Vilson\Unit1.pas=D:\InfoSistemas - Vilson\UnGerarXML.pas</Transaction>
+    <Transaction>2021/01/26 15:17:13.000.489,=D:\InfoSistemas - Vilson\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 15:17:52.000.002,D:\InfoSistemas - Vilson\Unit1.pas=D:\InfoSistemas - Vilson\UnEnviaEmail.pas</Transaction>
+  </Transactions>
+</BorlandProject>
